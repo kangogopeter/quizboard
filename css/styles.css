@@ -1,0 +1,78 @@
+html{
+  background-color: cyan;
+}
+body{
+  background color: cyan;
+}
+u{
+  font-size: 12px;
+  color: indianred;
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+}
+.row{
+  color: green;
+  font-size: 9px;
+  font-style: italic;
+}
+.cold{
+  color: green;
+  font-size: 9px;
+  font-style: italic;
+}
+.play{
+  color: green;
+font-size: 9px;
+font-style: italic;
+}
+.pepe{
+  color: green;
+  font-size: 9px;
+  font-style: italic;
+}
+.dope{
+  color: green;
+  font-size: 9px;
+  font-style: italic;
+}
+#button{
+  border-radius: 13px;
+  background-color: purple;
+  color: lightyellow;
+}
+#fearchoco{
+  text-align: center;
+  color: red;
+  background-color: lightgreen;
+  border-radius: 14px;
+}
+.polla{
+background-color: lightblue;
+border-radius: 17px;
+}
+.pollb{
+background-color: orange;
+border-radius: 17px;
+}
+.pollc{
+  background-image: url(/home/peter/Documents/peter/img/downloaded.jpg);
+border-radius: 17px;
+}
+.polld{
+  background-image: url(/home/peter/Documents/peter/img/images.jpg);
+border-radius: 17px;
+}
+.polle{
+background-color: violet;
+border-radius: 17px;
+}
+.container{
+  background-color: lightyellow;
+}
+.pc{
+  color: gold;
+}
+h2{
+  color: blue;
+}
