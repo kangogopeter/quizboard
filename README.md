@@ -12,7 +12,7 @@ PROCEDURE TO ACCESS:
 -\\\\an output of the website:~https://kangogopeter.github.io/quizboard/
 
 AUTHOR:
--PETER KANGOGO
+-PETER KANGOGO.
 
 Setup:
    quizboard.html
