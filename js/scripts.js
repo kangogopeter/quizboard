@@ -7,7 +7,7 @@ $(document).ready(function(){
     var myWorld = parseInt($("input:radio[name=palFive]:checked").val());
 var show = parseInt(dog + myCat + myCamel + myPeople + myWorld);
 event.preventDefault();
-        $("#death").slideDown(1000);
+        $("#death").slideDown();
         $("#results").text("your score is" + show + "%");
 
     });
